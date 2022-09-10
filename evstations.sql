@@ -12,7 +12,8 @@ CREATE TABLE stations (
     ev_network VARCHAR,
     connector_type VARCHAR,
     lat FLOAT,
-    lng FLOAT
+    lng FLOAT,
+    open_date DATE,
 );
 
 -- View table
