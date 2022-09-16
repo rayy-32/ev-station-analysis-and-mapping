@@ -1,3 +1,4 @@
+//attempting to connect sqlite database into leaflet using node.js
 //const sqlite3 = require('sqlite3').verbose();
 
 //var db = new sqlite3.Database('Resources/evstations.sqlite')
