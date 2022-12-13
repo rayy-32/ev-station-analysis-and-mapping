@@ -3,12 +3,10 @@
 ## Objective
 To map out the growth of electric vehicle charging stations across the United States
 
-## Process
-ETL / Data Wrangling
- * Using Python, source csv was imported into pandas
+## Analysis
 
 ## Data Visualizations
- * Tableau Dashboard: href
+ * Tableau Dashboard: https://public.tableau.com/views/EVStationAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Credits
 Electric Vehicle Charging Stations (ev_stations_v1.csv)
